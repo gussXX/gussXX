@@ -220,6 +220,7 @@ Busco constantemente novos desafios que me permitam crescer profissionalmente e 
   </tr>
 </table>
 
+
 <!-- <p align="center">
     <img src="https://img.shields.io/badge/status-completo-brightgreen" alt="status">
 </p>
