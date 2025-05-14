@@ -10,20 +10,16 @@
 
 <p align="center">
 <a href="https://seulink.com" style="text-decoration: none !important">
-<img src="./assets/img1.png" width="200"/>
+<img src="./assets/img1.png" style="margin-right: 20px" width="200"/>
 </a>
-&nbsp;&nbsp;
+
+<a href="https://seulink.com" style="text-decoration: none !important">
+<img src="./assets/img1.png" style="margin-right: 20px" width="200"/>
+</a>
 
 <a href="https://seulink.com" style="text-decoration: none !important">
 <img src="./assets/img1.png" width="200"/>
 </a>
-&nbsp;&nbsp;
-
-<a href="https://seulink.com" style="text-decoration: none !important">
-<img src="./assets/img1.png" width="200"/>
-</a>
-&nbsp;&nbsp;
-
 </p>
 
 <table align="center" width="100">
