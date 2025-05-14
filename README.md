@@ -10,7 +10,10 @@
 
 <h1 align="center">Projetos em Destaque 🚀 </h1>
 
-<p align="center" style="border: none; text-decoration: none; margin-bottom: 0;">Projetos em Destaque 🚀 </p>
+<p align="center">
+<img align="center" src="./assets/terraform.png" width="auto" height="57" />
+</p>
+
 <br>
 <table align="center" border="0">
   <tr>
