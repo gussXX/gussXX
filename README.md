@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/status-em%20andamento-yellow" alt="status">
 </p>
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td>
       <a href="https://link1.com">
@@ -21,7 +21,7 @@
         <img src="./assets/img1.png" width="150" />
       </a>
     </td>
-        <td>
+    <td>
       <a href="https://link2.com">
         <img src="./assets/img1.png" width="150" />
       </a>
