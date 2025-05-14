@@ -17,13 +17,10 @@
         <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gussxx&show_icons=true&theme=dark&locale=pt-br&layout=compact" height="150" alt="gussxx"/></p>
     </td>
     <td style="border: none">&nbsp;
-        <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gussxx&show_icons=true&theme=dark&locale=pt-br" height="150" alt="gussxx" /></p>
+        <p><img src="https://github-readme-stats.vercel.app/api?username=gussxx&show_icons=true&theme=dark&locale=pt-br" height="150" alt="gussxx" /></p>
     </td>
   </tr>
 </table>
-
-
-
 
 
 <p align="center">
