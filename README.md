@@ -14,10 +14,10 @@
 <table align="center">
   <tr>
     <td style="border: none">
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gussxx&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="gussxx" /></p>
+        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gussxx&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="gussxx" /></p>
     </td>
     <td style="border: none">&nbsp;
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gussxx&show_icons=true&theme=dark&hide_border=true&locale=en" alt="gussxx" /></p>
+        <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gussxx&show_icons=true&theme=dark&hide_border=true&locale=en" alt="gussxx" /></p>
     </td>
   </tr>
 </table>
@@ -30,7 +30,7 @@
 
 <br>
 <p align="center">
-    <img align="center" src="./assets/terraform.png" width="auto" height="57" />
+    <img align="center" src="./assets/terraform.png" height="auto" width="auto" />
 </p>
 
 <br>
@@ -43,7 +43,7 @@
       <a href="https://link1.com">
         <img src="./assets/img1.png" width="250" />
       </a>
-      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry.</p>
     </td>
     <td style="border: none">
     <p align="center">
@@ -52,7 +52,7 @@
       <a href="https://link2.com">
         <img src="./assets/img1.png" width="250" />
       </a>
-      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry. </p>
     </td>
     <td style="border: none">
     <p align="center">
@@ -61,7 +61,7 @@
       <a href="https://link2.com">
         <img src="./assets/img1.png" width="250" />
       </a>
-      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry.</p>
     </td>
   </tr>
 </table>
@@ -69,15 +69,15 @@
 [**Ver mais projetos**](https://your-link.com)
 
 <p align="center">
-    <img align="center" src="./assets/node.png" width="auto" height="57" />
+    <img align="center" src="./assets/node.png" width="auto" height="auto" width="auto" />
 </p>
 
 <p align="center">
-    <img align="center" src="./assets/fluter.png" width="auto" height="57" />
+    <img align="center" src="./assets/fluter.png" width="auto" height="auto" width="auto" />
 </p>
 
 <p align="center">
-    <img align="center" src="./assets/react.png" width="auto" height="57" />
+    <img align="center" src="./assets/react.png" width="auto" height="auto" width="auto" />
 </p>
 
 
