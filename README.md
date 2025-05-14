@@ -11,7 +11,7 @@
 
 <h1 align="center">Acompanhe meu progresso 🌱 </h1>
 
-<table align="center" border="0">
+<table align="center">
   <tr>
     <td style="border: none">
         <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gussxx&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="gussxx" /></p>
@@ -40,16 +40,19 @@
       <a href="https://link1.com">
         <img src="./assets/img1.png" width="250" />
       </a>
+      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
     </td>
     <td style="border: none">
       <a href="https://link2.com">
         <img src="./assets/img1.png" width="250" />
       </a>
+      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
     </td>
     <td style="border: none">
       <a href="https://link2.com">
         <img src="./assets/img1.png" width="250" />
       </a>
+      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
     </td>
   </tr>
 </table>
