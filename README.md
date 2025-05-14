@@ -30,25 +30,34 @@
 
 <br>
 <p align="center">
-<img align="center" src="./assets/terraform.png" width="auto" height="57" />
+    <img align="center" src="./assets/terraform.png" width="auto" height="57" />
 </p>
 
 <br>
 <table align="center" border="0">
   <tr>
     <td style="border: none">
+    <p align="center">
+        <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+    </p>
       <a href="https://link1.com">
         <img src="./assets/img1.png" width="250" />
       </a>
       <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
     </td>
     <td style="border: none">
+    <p align="center">
+    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+</p>
       <a href="https://link2.com">
         <img src="./assets/img1.png" width="250" />
       </a>
       <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
     </td>
     <td style="border: none">
+    <p align="center">
+    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+</p>
       <a href="https://link2.com">
         <img src="./assets/img1.png" width="250" />
       </a>
@@ -59,12 +68,43 @@
 
 [**Ver mais projetos**](https://your-link.com)
 
-<table align="center" width="100">
-    <tr align="center" width="100">
-        <td align="center" width="50%">1</td>
-        <td align="center" width="50%">2</td>
-    </tr>
-</table>
+<p align="center">
+    <img align="center" src="./assets/node.png" width="auto" height="57" />
+</p>
+
+<p align="center">
+    <img align="center" src="./assets/fluter.png" width="auto" height="57" />
+</p>
+
+<p align="center">
+    <img align="center" src="./assets/react.png" width="auto" height="57" />
+</p>
+
+
+
+<!-- <p align="center">
+    <img src="https://img.shields.io/badge/status-completo-brightgreen" alt="status">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/status-pendente-orange" alt="status">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="version">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="build">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/status-em%20progresso-orange" alt="status">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+</p> -->
 
 <!--
 **gussXX/gussXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
