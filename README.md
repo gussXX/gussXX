@@ -10,7 +10,7 @@
 
 <h1 align="center">Projetos em Destaque 🚀 </h1>
 
-<h2 align="center" style="border: none; text-decoration: none; margin-bottom: 0;">Projetos em Destaque 🚀 </h2>
+<p align="center" style="border: none; text-decoration: none; margin-bottom: 0;">Projetos em Destaque 🚀 </p>
 <br>
 <table align="center" border="0">
   <tr>
