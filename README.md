@@ -1,9 +1,7 @@
-## Hi there 👋
-
-<h1 align="center">🚀 Bem-vindo ao Meu Projeto</h1>
+<h1 align="center">Bem-vindo ao Git 📂 </h1>
 
 <p align="center">
-  Um projeto incrível usando Node.js, Docker e GitLab CI/CD
+  Me chamo Gustavo, mas pode me chamar de Gus. Sou DevOps Engineer!
 </p>
 
 <p align="center">
