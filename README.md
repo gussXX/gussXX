@@ -1,4 +1,12 @@
+<style>
+    td {
+        border: none;    
+        background-color: red 
+    }
+</style>
+
 <h1 align="center">Bem-vindo ao Git 📂 </h1>
+
 <p align="center">
   Me chamo Gustavo, mas pode me chamar de Gus. Sou DevOps Engineer!
 </p>
