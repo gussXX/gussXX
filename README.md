@@ -1,10 +1,3 @@
-<style>
-    td {
-        border: none;    
-        background-color: red 
-    }
-</style>
-
 <h1 align="center">Bem-vindo ao Git 📂 </h1>
 
 <p align="center">
@@ -15,6 +8,10 @@
   <img src="https://img.shields.io/badge/status-em%20andamento-yellow" alt="status">
 </p>
 
+<h1 align="center">Projetos em Destaque 🚀 </h1>
+
+<h2 align="center" style="border: none; text-decoration: none; margin-bottom: 0;">Projetos em Destaque 🚀 </h2>
+<br>
 <table align="center" border="0">
   <tr>
     <td style="border: none">
