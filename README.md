@@ -8,22 +8,22 @@
   <img src="https://img.shields.io/badge/status-em%20andamento-yellow" alt="status">
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="https://link1.com">
-        <img src="./img1.png" width="150" />
+        <img src="./assets/img1.png" width="150" />
       </a>
     </td>
     <td width="20"></td>
     <td>
       <a href="https://link2.com">
-        <img src="./img1.png" width="150" />
+        <img src="./assets/img1.png" width="150" />
       </a>
     </td>
         <td>
       <a href="https://link2.com">
-        <img src="./img1.png" width="150" />
+        <img src="./assets/img1.png" width="150" />
       </a>
     </td>
   </tr>
