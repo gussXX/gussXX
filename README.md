@@ -14,7 +14,7 @@
 <p align="left">
   Atualmente, sou Site Reliability Engineer (SRE) na Esfera, onde trabalho para garantir que os sistemas da empresa sejam rápidos, confiáveis e sempre disponíveis. Nos últimos 8 meses, venho utilizando ferramentas como GitLab e CI/CD para automatizar e otimizar processos, sempre buscando melhorar a performance e a estabilidade dos nossos sistemas.
 
-Antes de atuar como SRE, passei mais de 2 anos como Frontend Developer na mesma empresa, trabalhando com CSS, Salesforce e outras tecnologias para criar interfaces de usuário que fossem ao mesmo tempo bonitas e funcionais. Meu foco era sempre garantir uma experiência de usuário fluida e integrar os sistemas de forma eficiente.
+Antes de atuar como SRE, passei mais de 2 anos como Frontend Developer na mesma empresa, trabalhando com CSS, Salesforce e outras tecnologias para criar interfaces de usuário que fossem ao mesmo tempo bonitas e funcionais com foco em EMKTS e LPs. Meu foco era sempre garantir uma experiência de usuário fluida e integrar os sistemas de forma eficiente.
 
 Minha trajetória mistura o desenvolvimento de sistemas e a garantia de que eles funcionem de forma estável e escalável. Estou sempre em busca de aprender mais e enfrentar novos desafios, seja no desenvolvimento de interfaces ou na manutenção da infraestrutura de TI.
 </p>
@@ -22,7 +22,11 @@ Minha trajetória mistura o desenvolvimento de sistemas e a garantia de que eles
 <h1 align="center">Meus objetivos 🚩 </h1>
 
 <p align="left">
-  Me chamo Gustavo, mas pode me chamar de Gus. Sou DevOps Engineer!
+  Meus objetivos na carreira são focados em me tornar cada vez mais proficiente em Kubernetes e em continuar aprendendo sobre infraestrutura em nuvem. Tenho lidado com uma série de desafios técnicos, como garantir a escalabilidade e a estabilidade dos sistemas, e estou sempre buscando soluções práticas e eficientes para resolver problemas complexos.
+
+Estou também investindo em certificações como AWS e Terraform, para aprofundar meu conhecimento e aplicar as melhores práticas no dia a dia. Meu objetivo é continuar desenvolvendo minhas habilidades para criar e manter sistemas robustos, escaláveis e automatizados.
+
+Busco constantemente novos desafios que me permitam crescer profissionalmente e contribuir para a evolução das infraestruturas e operações das empresas em que trabalho.
 </p>
 
 <h1 align="center">Acompanhe meu progresso 🌱 </h1>
