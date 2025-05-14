@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<h1 align="center">🚀 Bem-vindo ao Meu Projeto</h1>
+
+<p align="center">
+  Um projeto incrível usando Node.js, Docker e GitLab CI/CD
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-em%20andamento-yellow" alt="status">
+</p>
+
 <!--
 **gussXX/gussXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
