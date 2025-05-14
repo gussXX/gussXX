@@ -69,16 +69,16 @@
 [**Ver mais projetos**](https://your-link.com)
 
 <p align="center">
-    <img align="center" src="./assets/node.png" width="auto" height="auto" width="auto" />
+    <img align="center" src="./assets/node.png" width="auto" height="auto"/>
 </p>
 
 <p align="center">
-    <img align="center" src="./assets/fluter.png" width="auto" height="auto" width="auto" />
+    <img align="center" src="./assets/fluter.png" width="auto" height="auto"/>
 </p>
 
 <p align="center">
-    <img align="center" src="./assets/react.png" width="auto" height="auto" width="auto" />
-</p>
+    <img align="center" src="./assets/react.png" width="auto" height="auto"/>
+</p
 
 
 
