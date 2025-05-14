@@ -8,19 +8,26 @@
   <img src="https://img.shields.io/badge/status-em%20andamento-yellow" alt="status">
 </p>
 
-<p align="center">
-<a href="https://seulink.com" style="text-decoration: none !important">
-<img src="./assets/img1.png" style="margin-right: 20px" width="200"/>
-</a>
-
-<a href="https://seulink.com" style="text-decoration: none !important">
-<img src="./assets/img1.png" style="margin-right: 20px" width="200"/>
-</a>
-
-<a href="https://seulink.com" style="text-decoration: none !important">
-<img src="./assets/img1.png" width="200"/>
-</a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://link1.com">
+        <img src="./img1.png" width="150" />
+      </a>
+    </td>
+    <td width="20"></td>
+    <td>
+      <a href="https://link2.com">
+        <img src="./img1.png" width="150" />
+      </a>
+    </td>
+        <td>
+      <a href="https://link2.com">
+        <img src="./img1.png" width="150" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <table align="center" width="100">
     <tr align="center" width="100">
