@@ -1,5 +1,4 @@
 <h1 align="center">Bem-vindo ao Git 📂 </h1>
-
 <p align="center">
   Me chamo Gustavo, mas pode me chamar de Gus. Sou DevOps Engineer!
 </p>
@@ -12,18 +11,17 @@
   <tr>
     <td>
       <a href="https://link1.com">
-        <img src="./assets/img1.png" width="150" />
-      </a>
-    </td>
-    <td width="20"></td>
-    <td>
-      <a href="https://link2.com">
-        <img src="./assets/img1.png" width="150" />
+        <img src="./assets/img1.png" width="250" />
       </a>
     </td>
     <td>
       <a href="https://link2.com">
-        <img src="./assets/img1.png" width="150" />
+        <img src="./assets/img1.png" width="250" />
+      </a>
+    </td>
+    <td>
+      <a href="https://link2.com">
+        <img src="./assets/img1.png" width="250" />
       </a>
     </td>
   </tr>
