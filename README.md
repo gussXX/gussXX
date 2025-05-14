@@ -1,8 +1,30 @@
+
+
 <h1 align="center">Bem-vindo ao Git 📂 </h1>
 
-<p align="center">
+<p align="left">
   Me chamo Gustavo, mas pode me chamar de Gus. Sou DevOps Engineer!
 </p>
+<p align="left">
+    DevOps Engineer na Esfera Fidelidade, o programa de benefícios do grupo Santander. Formado Em gestão de TI pela universidade FATEC e atualmente cursando Engenharia da computação pela UAM. Atuo com tecnologias de ponta como AWS, Kubernetes, Docker, Terraform... Além de ênfase em desenvolvimento mobile Flutter/ReactNative e Web via ReactJs e todo o ecossistema Javascript. Paixão por engenharia de áudio e Baixista nas horas vagas.
+</p>
+
+<h1 align="center">Acompanhe meu progresso 🌱 </h1>
+
+<table align="center" border="0">
+  <tr>
+    <td style="border: none">
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gussxx&show_icons=true&theme=dark&locale=pt-br&layout=compact" height="150" alt="gussxx"/></p>
+    </td>
+    <td style="border: none">&nbsp;
+        <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gussxx&show_icons=true&theme=dark&locale=pt-br" height="150" alt="gussxx" /></p>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20andamento-yellow" alt="status">
@@ -10,6 +32,7 @@
 
 <h1 align="center">Projetos em Destaque 🚀 </h1>
 
+<br>
 <p align="center">
 <img align="center" src="./assets/terraform.png" width="auto" height="57" />
 </p>
