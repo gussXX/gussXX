@@ -8,6 +8,13 @@
   <img src="https://img.shields.io/badge/status-em%20andamento-yellow" alt="status">
 </p>
 
+<p align="center">
+  <img src="./assets/img1.png" width="150" />
+  <img src="./assets/img1.png" width="150" />
+  <img src="./assets/img1.png" width="150" />
+  <img src="./assets/img1.png" width="150" />
+</p>
+
 <table align="center" width="100">
     <tr align="center" width="100">
         <td align="center" width="50%">1</td>
