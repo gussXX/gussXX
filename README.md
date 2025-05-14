@@ -57,10 +57,7 @@
   </tr>
 </table>
 
-<div style="text-align: center;">
-  <a href="https://your-link.com" style="display: inline-block; background-color: #333; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px; font-weight: bold;">Dark Mode</a>
-</div>
-
+[**Ver mais projetos**](https://your-link.com)
 
 <table align="center" width="100">
     <tr align="center" width="100">
