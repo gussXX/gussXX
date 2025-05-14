@@ -17,17 +17,17 @@
 
 <table align="center" border="0">
   <tr>
-    <td>
+    <td style="border: none">
       <a href="https://link1.com">
         <img src="./assets/img1.png" width="250" />
       </a>
     </td>
-    <td>
+    <td style="border: none">
       <a href="https://link2.com">
         <img src="./assets/img1.png" width="250" />
       </a>
     </td>
-    <td>
+    <td style="border: none">
       <a href="https://link2.com">
         <img src="./assets/img1.png" width="250" />
       </a>
