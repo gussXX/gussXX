@@ -14,14 +14,13 @@
 <table align="center" border="0">
   <tr>
     <td style="border: none">
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gussxx&show_icons=true&theme=dark&locale=pt-br&layout=compact" height="150" alt="gussxx"/></p>
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gussxx&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="gussxx" /></p>
     </td>
     <td style="border: none">&nbsp;
-        <p><img src="https://github-readme-stats.vercel.app/api?username=gussxx&show_icons=true&theme=dark&locale=pt-br" height="150" alt="gussxx" /></p>
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gussxx&show_icons=true&theme=dark&hide_border=true&locale=en" alt="gussxx" /></p>
     </td>
   </tr>
 </table>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20andamento-yellow" alt="status">
