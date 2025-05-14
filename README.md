@@ -9,6 +9,22 @@
     DevOps Engineer na Esfera Fidelidade, o programa de benefícios do grupo Santander. Formado Em gestão de TI pela universidade FATEC e atualmente cursando Engenharia da computação pela UAM. Atuo com tecnologias de ponta como AWS, Kubernetes, Docker, Terraform... Além de ênfase em desenvolvimento mobile Flutter/ReactNative e Web via ReactJs e todo o ecossistema Javascript. Paixão por engenharia de áudio e Baixista nas horas vagas.
 </p>
 
+<h1 align="center">Meu momento de carreira 📍 </h1>
+
+<p align="left">
+  Atualmente, sou Site Reliability Engineer (SRE) na Esfera, onde trabalho para garantir que os sistemas da empresa sejam rápidos, confiáveis e sempre disponíveis. Nos últimos 8 meses, venho utilizando ferramentas como GitLab e CI/CD para automatizar e otimizar processos, sempre buscando melhorar a performance e a estabilidade dos nossos sistemas.
+
+Antes de atuar como SRE, passei mais de 2 anos como Frontend Developer na mesma empresa, trabalhando com CSS, Salesforce e outras tecnologias para criar interfaces de usuário que fossem ao mesmo tempo bonitas e funcionais. Meu foco era sempre garantir uma experiência de usuário fluida e integrar os sistemas de forma eficiente.
+
+Minha trajetória mistura o desenvolvimento de sistemas e a garantia de que eles funcionem de forma estável e escalável. Estou sempre em busca de aprender mais e enfrentar novos desafios, seja no desenvolvimento de interfaces ou na manutenção da infraestrutura de TI.
+</p>
+
+<h1 align="center">Meus objetivos 🚩 </h1>
+
+<p align="left">
+  Me chamo Gustavo, mas pode me chamar de Gus. Sou DevOps Engineer!
+</p>
+
 <h1 align="center">Acompanhe meu progresso 🌱 </h1>
 
 <table align="center">
