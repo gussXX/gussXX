@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="./assets/img1.png" width="150" />
-  <img src="./assets/img1.png" width="150" />
-  <img src="./assets/img1.png" width="150" />
-  <img src="./assets/img1.png" width="150" />
+  <img src="./assets/img1.png" width="200" />
+  <img src="./assets/img1.png" width="200" />
+  <img src="./assets/img1.png" width="200" />
+  <img src="./assets/img1.png" width="200" />
 </p>
 
 <table align="center" width="100">
