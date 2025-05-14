@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/status-em%20andamento-yellow" alt="status">
 </p>
 
-<table width="100%" border="1" cellspacing="0" cellpadding="5">
-    <tr align="center" width="100%">
+<table align="center" width="100">
+    <tr align="center" width="100">
         <td align="center" width="50%">1</td>
         <td align="center" width="50%">2</td>
     </tr>
