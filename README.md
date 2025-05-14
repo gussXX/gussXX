@@ -22,13 +22,11 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-em%20andamento-yellow" alt="status">
-</p>
+<h1 align="center">Projetos em Destaque | DEVOPS | 🚀 </h1>
 
-<h1 align="center">Projetos em Destaque 🚀 </h1>
-
+<p>Tenho alguns projetos no meu GitHub focados em DevOps e Site Reliability Engineering (SRE), que abordam práticas de automação, monitoramento e otimização de infraestruturas. Um dos principais projetos é a Automação de Deploy com Docker e Kubernetes, que facilita o gerenciamento de ambientes em produção. Também trabalho em uma pipeline CI/CD usando GitLab, permitindo integrações contínuas e entregas rápidas. Outro projeto interessante é a Gestão de Logs e Monitoramento com ferramentas como Prometheus e Grafana, garantindo alta disponibilidade e resiliência dos sistemas. Esses projetos têm como objetivo melhorar a eficiência operacional e garantir que as aplicações sejam escaláveis e resilientes.</p>
 <br>
+
 <p align="center">
     <img align="center" src="./assets/terraform.png" height="auto" width="auto" />
 </p>
@@ -68,19 +66,139 @@
 
 [**Ver mais projetos**](https://your-link.com)
 
+<br>
+
+<h1 align="center">Projetos em Destaque | BACKEND | 🚀 </h1>
+
+<p>No meu GitHub, você encontrará diversos projetos de backend, com foco principal em Node.js. Acredito que um bom profissional de DevOps também deve saber desenvolver aplicações, pois isso permite uma integração mais eficiente entre o desenvolvimento e a infraestrutura. Meus projetos em Node.js incluem APIs RESTful e automações para otimizar processos, alinhando-se às práticas de CI/CD e garantindo a entrega contínua e segura.</p>
+<br>
+
 <p align="center">
     <img align="center" src="./assets/node.png" width="auto" height="auto"/>
 </p>
+<br>
+<table align="center" border="0">
+  <tr>
+    <td style="border: none">
+    <p align="center">
+        <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+    </p>
+      <a href="https://link1.com">
+        <img src="./assets/img2.png" width="250" />
+      </a>
+      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry.</p>
+    </td>
+    <td style="border: none">
+    <p align="center">
+    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+</p>
+      <a href="https://link2.com">
+        <img src="./assets/img2.png" width="250" />
+      </a>
+      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry. </p>
+    </td>
+    <td style="border: none">
+    <p align="center">
+    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+</p>
+      <a href="https://link2.com">
+        <img src="./assets/img2.png" width="250" />
+      </a>
+      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry.</p>
+    </td>
+  </tr>
+</table>
+
+[**Ver mais projetos**](https://your-link.com)
+
+<br>
+
+<h1 align="center">Projetos em Destaque | MOBILE | 🚀 </h1>
+
+<p>Sou apaixonado por Flutter e seu potencial para o desenvolvimento multiplataforma. Com o Flutter, consigo criar aplicações móveis nativas para Android e iOS a partir de uma única base de código, o que economiza tempo e recursos. A flexibilidade do framework e a facilidade de integração com APIs tornam o processo de desenvolvimento mais ágil e eficiente, permitindo que eu entregue aplicativos de alta qualidade para diferentes plataformas com menos esforço.</p>
+<br>
 
 <p align="center">
     <img align="center" src="./assets/fluter.png" width="auto" height="auto"/>
 </p>
 
+<br>
+<table align="center" border="0">
+  <tr>
+    <td style="border: none">
+    <p align="center">
+        <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+    </p>
+      <a href="https://link1.com">
+        <img src="./assets/img3.png" width="250" />
+      </a>
+      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry.</p>
+    </td>
+    <td style="border: none">
+    <p align="center">
+    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+</p>
+      <a href="https://link2.com">
+        <img src="./assets/img3.png" width="250" />
+      </a>
+      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry. </p>
+    </td>
+    <td style="border: none">
+    <p align="center">
+    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+</p>
+      <a href="https://link2.com">
+        <img src="./assets/img3.png" width="250" />
+      </a>
+      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry.</p>
+    </td>
+  </tr>
+</table>
+
+[**Ver mais projetos**](https://your-link.com)
+
+<br>
+
+<h1 align="center">Projetos em Destaque | FRONTEND | 🚀 </h1>
+
+<p>Tenho grande interesse no desenvolvimento de frontend web, especialmente com React.js. A capacidade do React de criar interfaces dinâmicas e reutilizáveis facilita o desenvolvimento de aplicações rápidas e escaláveis.</p>
+<br>
+
 <p align="center">
     <img align="center" src="./assets/react.png" width="auto" height="auto"/>
-</p
-
-
+</p>
+<br>
+<table align="center" border="0">
+  <tr>
+    <td style="border: none">
+    <p align="center">
+        <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+    </p>
+      <a href="https://link1.com">
+        <img src="./assets/img4.png" width="250" />
+      </a>
+      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry.</p>
+    </td>
+    <td style="border: none">
+    <p align="center">
+    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+</p>
+      <a href="https://link2.com">
+        <img src="./assets/img4.png" width="250" />
+      </a>
+      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry. </p>
+    </td>
+    <td style="border: none">
+    <p align="center">
+    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+</p>
+      <a href="https://link2.com">
+        <img src="./assets/img4.png" width="250" />
+      </a>
+      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry.</p>
+    </td>
+  </tr>
+</table>
 
 <!-- <p align="center">
     <img src="https://img.shields.io/badge/status-completo-brightgreen" alt="status">
