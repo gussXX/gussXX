@@ -58,10 +58,10 @@ Busco constantemente novos desafios que me permitam crescer profissionalmente e 
     <p align="center">
         <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
     </p>
-      <a href="https://link1.com">
+      <a href="https://github.com/gussXX/terraform-aws-ec2-webserver">
         <img src="./assets/img1.png" width="250" />
       </a>
-      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry.</p>
+      <p><b>VM EC2 on AWS</b><br>Provisionamento de uma VM simples na AWS com configurações de VPC adequadas.</p>
     </td>
     <td style="border: none">
     <p align="center">
