@@ -52,9 +52,9 @@ Busco constantemente novos desafios que me permitam crescer profissionalmente e 
 </p>
 
 <br>
-<table align="center" border="0">
+<table align="center" border="0" width="100%">
   <tr>
-    <td style="border: none">
+    <td style="border: none" width="33%">
     <p align="center">
         <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
     </p>
@@ -63,7 +63,7 @@ Busco constantemente novos desafios que me permitam crescer profissionalmente e 
       </a>
       <p><b>VM EC2 on AWS</b><br>Provisionamento de uma VM simples na AWS com configurações de VPC adequadas.</p>
     </td>
-    <td style="border: none">
+    <td style="border: none" width="33%">
     <p align="center">
     <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
 </p>
@@ -72,7 +72,7 @@ Busco constantemente novos desafios que me permitam crescer profissionalmente e 
       </a>
       <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry. </p>
     </td>
-    <td style="border: none">
+    <td style="border: none" width="33%">
     <p align="center">
     <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
 </p>
