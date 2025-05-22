@@ -67,10 +67,10 @@ Busco constantemente novos desafios que me permitam crescer profissionalmente e 
     <p align="center">
     <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
 </p>
-      <a href="https://link2.com">
+      <a href="https://github.com/gussXX/terraform-aws-comprehend-training">
         <img src="./assets/img1.png" width="250" />
       </a>
-      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry. </p>
+      <p><b>Amazon Comprehend</b><br>Provisionamento de um treinamento de IA para Amazon Comprehend. </p>
     </td>
     <td style="border: none" width="33%">
     <p align="center">
