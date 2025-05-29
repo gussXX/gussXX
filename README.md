@@ -50,13 +50,16 @@ Busco constantemente novos desafios que me permitam crescer profissionalmente e 
 <p align="center">
     <img align="center" src="./assets/terraform.png" height="auto" width="auto" />
 </p>
+<br>
+<p>O terraform foi uma das tecnologias na area de DevOps que mais me fez me apaixonar por essa cultura e mentalidade. Aqui criei alguns projetos reais nas quais já atuei e projetos que me desafiei a criar me propondo casas na qual a IaC (Infra como Código) seria de grande ajuda. </p>
+<br>
 
 <br>
 <table align="center" border="0" width="100%">
   <tr>
     <td style="border: none" width="33%">
     <p align="center">
-        <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+        <img src="https://img.shields.io/badge/status-concluido-green" alt="status">
     </p>
       <a href="https://github.com/gussXX/terraform-aws-ec2-webserver">
         <img src="./assets/img1.png" width="250" />
@@ -65,7 +68,7 @@ Busco constantemente novos desafios que me permitam crescer profissionalmente e 
     </td>
     <td style="border: none" width="33%">
     <p align="center">
-    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+    <img src="https://img.shields.io/badge/status-em%20andamento-purple" alt="status">
 </p>
       <a href="https://github.com/gussXX/terraform-aws-comprehend-training">
         <img src="./assets/img1.png" width="250" />
@@ -74,23 +77,67 @@ Busco constantemente novos desafios que me permitam crescer profissionalmente e 
     </td>
     <td style="border: none" width="33%">
     <p align="center">
-    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+    <img src="https://img.shields.io/badge/status-em%20construção-yellow" alt="status">
 </p>
-      <a href="https://link2.com">
-        <img src="./assets/img1.png" width="250" />
+      <a href="https://github.com/gussXX">
+        <img src="./assets/img-loading.png" width="250" />
       </a>
-      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry.</p>
+      <p><b>Amazon Textract</b><br>Provisionamento de um fluxo de extração de textos de documentos com IA.</p>
     </td>
   </tr>
 </table>
 
-[**Ver mais projetos**](https://your-link.com)
+[**Ver mais projetos**](https://github.com/gussXX)
 
 <br>
 
+<p align="center">
+    <img align="center" src="./assets/python.png" height="auto" width="auto" />
+</p>
+
+<br>
+
+<p>Alguns projetos desenvolvidos em Python, aqui busquei desenvolver projetos voltados para minha area de atuação de forma mais especifica, como por exemplo automações mais eficientes em Pipelines e afins, bem como automações Web.</p>
+<br>
+
+<br>
+<table align="center" border="0" width="100%">
+  <tr>
+    <td style="border: none" width="33%">
+    <p align="center">
+        <img src="https://img.shields.io/badge/status-em%20construção-yellow" alt="status">
+    </p>
+      <a href="https://github.com/gussXX/terraform-aws-ec2-webserver">
+        <img src="./assets/img-loading.png" width="250" />
+      </a>
+    <p><b>Automação com Selenium</b><br>Um projeto que utiliza Python para automatizar tarefas repetitivas na Web.</p>
+    </td>
+    <td style="border: none" width="33%">
+    <p align="center">
+    <img src="https://img.shields.io/badge/status-em%20construção-yellow" alt="status">
+</p>
+      <a href="https://github.com/gussXX/terraform-aws-comprehend-training">
+        <img src="./assets/img-loading.png" width="250" />
+      </a>
+      <p><b>Web Scraping</b><br>Desenvolvendo uma rotina de scraping para alimentar uma base de dados.</p>
+    </td>
+    <td style="border: none" width="33%">
+    <p align="center">
+    <img src="https://img.shields.io/badge/status-em%20construção-yellow" alt="status">
+</p>
+      <a href="https://github.com/gussXX">
+        <img src="./assets/img-loading.png" width="250" />
+      </a>
+      <p><b>Pipeline com Python</b><br>Desenvolvimento de build, test e deploy utilizando o python.</p>
+    </td>
+  </tr>
+</table>
+
+[**Ver mais projetos**](https://github.com/gussXX)
+
 <h1 align="center">Projetos em Destaque | BACKEND | 🚀 </h1>
 
-<p>No meu GitHub, você encontrará diversos projetos de backend, com foco principal em Node.js. Acredito que um bom profissional de DevOps também deve saber desenvolver aplicações, pois isso permite uma integração mais eficiente entre o desenvolvimento e a infraestrutura. Meus projetos em Node.js incluem APIs RESTful e automações para otimizar processos, alinhando-se às práticas de CI/CD e garantindo a entrega contínua e segura.</p>
+<p>Mesmo sendo um amante de frontend, aplicações de backend me proporcionam desafios que facilmente encontro no meu dia a dia no trabalho, saber como desenvolver aplicações me ajudam a entender e poder lidar melhor com problemas reais, bem como consumir APIs publicas e padrões de desenvolvimento.</p>
 <br>
 
 <p align="center">
@@ -101,39 +148,39 @@ Busco constantemente novos desafios que me permitam crescer profissionalmente e 
   <tr>
     <td style="border: none">
     <p align="center">
-        <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+        <img src="https://img.shields.io/badge/status-em%20construção-yellow" alt="status">
     </p>
-      <a href="https://link1.com">
-        <img src="./assets/img2.png" width="250" />
+      <a href="https://github.com/gussXX">
+        <img src="./assets/img-loading.png" width="250" />
       </a>
-      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry.</p>
+      <p><b>Projeto</b><br>is simply dummy text of the printing and typesetting industry.</p>
     </td>
     <td style="border: none">
     <p align="center">
-    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+    <img src="https://img.shields.io/badge/status-em%20construção-yellow" alt="status">
 </p>
-      <a href="https://link2.com">
-        <img src="./assets/img2.png" width="250" />
+      <a href="https://github.com/gussXX">
+        <img src="./assets/img-loading.png" width="250" />
       </a>
-      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry. </p>
+      <p><b>Projeto</b><br>is simply dummy text of the printing and typesetting industry. </p>
     </td>
     <td style="border: none">
     <p align="center">
-    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+    <img src="https://img.shields.io/badge/status-em%20construção-yellow" alt="status">
 </p>
-      <a href="https://link2.com">
-        <img src="./assets/img2.png" width="250" />
+      <a href="https://github.com/gussXX">
+        <img src="./assets/img-loading.png" width="250" />
       </a>
-      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry.</p>
+      <p><b>Projeto</b><br>is simply dummy text of the printing and typesetting industry.</p>
     </td>
   </tr>
 </table>
 
-[**Ver mais projetos**](https://your-link.com)
+[**Ver mais projetos**](https://github.com/gussXX)
 
 <br>
 
-<h1 align="center">Projetos em Destaque | MOBILE | 🚀 </h1>
+<!-- <h1 align="center">Projetos em Destaque | MOBILE | 🚀 </h1>
 
 <p>Sou apaixonado por Flutter e seu potencial para o desenvolvimento multiplataforma. Com o Flutter, consigo criar aplicações móveis nativas para Android e iOS a partir de uma única base de código, o que economiza tempo e recursos. A flexibilidade do framework e a facilidade de integração com APIs tornam o processo de desenvolvimento mais ágil e eficiente, permitindo que eu entregue aplicativos de alta qualidade para diferentes plataformas com menos esforço.</p>
 <br>
@@ -147,35 +194,35 @@ Busco constantemente novos desafios que me permitam crescer profissionalmente e 
   <tr>
     <td style="border: none">
     <p align="center">
-        <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+        <img src="https://img.shields.io/badge/status-em%20construção-yellow" alt="status">
     </p>
-      <a href="https://link1.com">
+      <a href="https://github.com/gussXX">
         <img src="./assets/img3.png" width="250" />
       </a>
-      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry.</p>
+      <p><b>Projeto</b><br>is simply dummy text of the printing and typesetting industry.</p>
     </td>
     <td style="border: none">
     <p align="center">
-    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+    <img src="https://img.shields.io/badge/status-em%20construção-yellow" alt="status">
 </p>
-      <a href="https://link2.com">
+      <a href="https://github.com/gussXX">
         <img src="./assets/img3.png" width="250" />
       </a>
-      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry. </p>
+      <p><b>Projeto</b><br>is simply dummy text of the printing and typesetting industry. </p>
     </td>
     <td style="border: none">
     <p align="center">
-    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+    <img src="https://img.shields.io/badge/status-em%20construção-yellow" alt="status">
 </p>
-      <a href="https://link2.com">
+      <a href="https://github.com/gussXX">
         <img src="./assets/img3.png" width="250" />
       </a>
-      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry.</p>
+      <p><b>Projeto</b><br>is simply dummy text of the printing and typesetting industry.</p>
     </td>
   </tr>
 </table>
 
-[**Ver mais projetos**](https://your-link.com)
+[**Ver mais projetos**](https://github.com/gussXX)
 
 <br>
 
@@ -192,33 +239,33 @@ Busco constantemente novos desafios que me permitam crescer profissionalmente e 
   <tr>
     <td style="border: none">
     <p align="center">
-        <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+        <img src="https://img.shields.io/badge/status-em%20construção-yellow" alt="status">
     </p>
-      <a href="https://link1.com">
+      <a href="https://github.com/gussXX">
         <img src="./assets/img4.png" width="250" />
       </a>
-      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry.</p>
+      <p><b>Projeto</b><br>is simply dummy text of the printing and typesetting industry.</p>
     </td>
     <td style="border: none">
     <p align="center">
-    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+    <img src="https://img.shields.io/badge/status-em%20construção-yellow" alt="status">
 </p>
-      <a href="https://link2.com">
+      <a href="https://github.com/gussXX">
         <img src="./assets/img4.png" width="250" />
       </a>
-      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry. </p>
+      <p><b>Projeto</b><br>is simply dummy text of the printing and typesetting industry. </p>
     </td>
     <td style="border: none">
     <p align="center">
-    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+    <img src="https://img.shields.io/badge/status-em%20construção-yellow" alt="status">
 </p>
-      <a href="https://link2.com">
+      <a href="https://github.com/gussXX">
         <img src="./assets/img4.png" width="250" />
       </a>
-      <p><b>Projeto 01</b><br>is simply dummy text of the printing and typesetting industry.</p>
+      <p><b>Projeto</b><br>is simply dummy text of the printing and typesetting industry.</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 <!-- <p align="center">
@@ -242,7 +289,7 @@ Busco constantemente novos desafios que me permitam crescer profissionalmente e 
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple" alt="status">
+    <img src="https://img.shields.io/badge/status-em%20construção-yellow" alt="status">
 </p> -->
 
 <!--
