@@ -81,7 +81,7 @@ Busco constantemente novos desafios que me permitam crescer profissionalmente e 
       <a href="https://github.com/gussXX/terraform-aws-comprehend-training">
         <img src="./assets/img1.png" width="250" />
       </a>
-      <p><b>Amazon Comprehend</b><br>Provisionamento de um treinamento de IA para Amazon Comprehend. </p>
+      <p><b>Amazon Comprehend</b><br>Provisionamento de uma infra para treinamento de IA para Amazon Comprehend. </p>
     </td>
     <td style="border: none" width="33%">
     <p align="center">
