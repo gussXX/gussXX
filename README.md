@@ -76,7 +76,7 @@ Busco constantemente novos desafios que me permitam crescer profissionalmente e 
     </td>
     <td style="border: none" width="33%">
     <p align="center">
-    <img src="https://img.shields.io/badge/status-em%20andamento-purpple" alt="status">
+    <img src="https://img.shields.io/badge/status-em%20andamento-purple" alt="status">
 </p>
       <a href="https://github.com/gussXX/terraform-aws-comprehend-training">
         <img src="./assets/img1.png" width="250" />
@@ -113,7 +113,7 @@ Busco constantemente novos desafios que me permitam crescer profissionalmente e 
   <tr>
     <td style="border: none" width="33%">
     <p align="center">
-        <img src="https://img.shields.io/badge/status-em%20andamento-purpple" alt="status">
+        <img src="https://img.shields.io/badge/status-em%20andamento-purple" alt="status">
     </p>
       <a href="https://github.com/gussXX/python-selenium-taskbo">
         <img src="./assets/img4.png" width="250" />
